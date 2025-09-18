@@ -3,11 +3,8 @@
   <img src="https://github.com/DogeNetwork/dogeub/blob/main/public/logo.svg" width="322" />
   <br />
 
-  <a href="https://buymeacoffee.com/dogubdev" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" width="130" /></a> ![](https://dcbadge.limes.pink/api/server/https://discord.gg/unblocking?compact=true)
-
-
-  <hr />
-  DogeUB (Doge Unblocker) version 5 is finally here!
+  <a href="https://buymeacoffee.com/dogubdev" target="_blank"><img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" width="130" /></a> ![](https://dcbadge.limes.pink/api/server/https://discord.gg/unblocking?compact=true
+  
 
   
   <br />
@@ -82,3 +79,6 @@ npm run dev
 
 This project is licensed under the **GNU Affero GPL v3**.  
 See the [LICENSE](LICENSE) file for more details.
+
+## Privacy
+this site can log certian data for its safty and the owners safety. please proceed with caution whne using this website and this github site
